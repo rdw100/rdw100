@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Dusty</h1>
+<h1 align="center">Hi 👋, I'm Dusty</h1>
 <h3 align="left">I build custom software for the Web, Desktop, and Cloud. 🎯</h3>
 
 * 👨‍💻 All of my projects are available at [https://github.com/rdw100](https://github.com/rdw100?tab=repositories)
