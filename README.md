@@ -2,7 +2,6 @@
 <h3 align="left">I build custom software for the Web, Desktop, and Cloud. 🎯</h3>
 
 * 👨‍💻 All of my projects are available at [https://github.com/rdw100](https://github.com/rdw100?tab=repositories)
-<!-- * 📝 I regularly write articles on [https://www.dustywright.me/blog/](https://www.dustywright.me/blog/) -->
 * 📫 How to reach me **dusty@dustywright.me**
 * 📄 Read about my experience [https://www.dustywright.me/resume/](https://www.dustywright.me/resume/)
 
